@@ -78,5 +78,5 @@ Total Pay =
 To make the tool completely foolproof for the end user and provide maximum utility, I implemented VBA scripts tied to interactive dashboard buttons:
 
 *   **One-Click Data Refresh Macro:** A script assigned to a button on the dashboard that automatically refreshes all Power Query data connections, updates the DAX data model, and refreshes all pivot tables and slicers in the correct sequence. 
-*   **Automated PDF Paycheck Generator:** A script that loops through the finalized payroll list and automatically exports individual PDF pay slips for each employee. This eliminates the need to manually create and print or save individual records.
+*   **Automated PDF Paycheck Generator:** A script that takes the finalized payroll payload list (a Pivot Table detailing total pay per employee) and automatically exports it as a clean PDF report. This eliminates the need to manually format and save the final payout records.
 *   **Creative Executive Summary:** Integrated a dynamic text box summarizing top-level metrics for quick executive reading without having to parse the charts.
