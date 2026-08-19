@@ -1,0 +1,2 @@
+# Automated-Payroll-Labor-Analytics-Engine-Excel-Medallion-Architecture-
+A client required an administrative assistant to manually calculate monthly salaries for 50+ employees using raw, messy timesheet dumps. The manual process was prone to human error, struggled with missing clock-outs, and took hours to complete, yielding no broader business insights. The strict constraint: Only Excel could be used.
